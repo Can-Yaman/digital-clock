@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa&display=swap");
+#clock {
+    margin: 25vh auto;
+    font-size: 5vw;
+    width: 35vw;
+    height: auto;
+    text-align: center;
+    border: 1vw solid #219fa1;
+    border-radius: 5vw;
+    background-color: #858585;
+    font-family: "Changa", sans-serif;
+    font-weight: 900;
+    color: white;
+}
+
+time {
+    display: block;
+    margin-top: 0.7vh;
+}
+
+body {
+    background-color: black;
+}
